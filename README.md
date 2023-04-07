@@ -3,6 +3,6 @@
 * LinearRegression
 * LogisticRegression
 * kMeans
- * Elbow Method
+  * Elbow Method
 * MultipleLinearRegression
 * PolynomialRegression(차수)
